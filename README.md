@@ -103,7 +103,7 @@ The combination of low default risk, low market penetration, and the highest con
 
 On the website side, the CSR section proposal was submitted to the CEO and has since been adopted in the live Omnicapital website. The structural approach and content positioning from the layout reference were reflected in the final design.
 
-> 📊 Upload the Figma vs live website side-by-side screenshot to GitHub and paste URL here
+<img width="1710" height="1107" alt="Screenshot 2026-06-26 at 4 51 11 PM" src="https://github.com/user-attachments/assets/902c331f-9b5d-41dc-afe6-acb92367ca5e" />
 > *Left: Layout reference submitted to the design team · Right: Live omnicapital.mn — structural approach and content positioning adopted*
 
 > 🌐 [View Omnicapital website](https://www.omnicapital.mn)
