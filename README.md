@@ -132,7 +132,7 @@ SQL to query and join ~3,900 records across loan type, geography, and customer d
 
 **Moni Fintech App Analysis** — the consumer-facing side of the same engagement: UX audit, 380,000 customer records, acquisition funnel analysis, and customer segmentation that triggered the company-wide rebrand.
 
-→ [View Moni project]([../moni-fintech-app-analysis](https://github.com/bulgandamdindorj/fintech-product-analysis-acquisition-funnel))
+→ [View Moni project]([[../moni-fintech-app-analysis](https://github.com/bulgandamdindorj/fintech-product-analysis-acquisition-funnel)](https://github.com/bulgandamdindorj/fintech-product-analysis-acquisition-funnel))
 
 ---
 
