@@ -1,6 +1,6 @@
 # NBFI Loan Portfolio Analysis · Customer Segmentation · NPL Classification · Geographic Targeting
 
-**Company:** Omnicapital NBFI, Mongolia · B2B and B2C traditional lending  
+**Company:** Omnicapital NBFI, Mongolia · B2B and B2C traditional lending [omnicapital.mn](https://omnicapital.mn/)
 **Products:** Car loans · vehicle collateralized · real estate · business loans · express loans · consumer loans
 
 ---
